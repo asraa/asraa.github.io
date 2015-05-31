@@ -1,0 +1,9 @@
+# Site settings
+title: Asra Ali
+email: asra@mit.edu
+baseurl: "" 
+url: "https://localhost" # the base hostname & protocol for your site
+github_username: asraa
+
+# Build settings
+markdown: kramdown

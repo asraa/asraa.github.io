@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1>New Posts</h1>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+    <li>
+      <div>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <div class="post-block" onclick="document.location.href='{{ post.url }}'">
+          <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+          <div class="post-excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</div>
+        </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

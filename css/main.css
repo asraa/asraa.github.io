@@ -1,0 +1,86 @@
+html {
+    height: 100%;
+    margin: 0px;
+    max-width: 75%;
+}
+
+body {
+    background: black;
+    color: white;
+    font-family: 'PT Mono';
+    height: 100%;
+    margin: 0px 5 px;
+
+}
+
+.page-content {
+    margin: 0px auto;
+    max-width: 75%
+}
+
+a {
+    color: #CC33CC;
+}
+
+a.hover {
+    color: #FF99FF;
+}
+
+
+header,footer,nav{
+    text-align: center;
+}
+
+.site-header {
+    border-bottom: 5px dashed #33CC66;
+    margin: 10px;
+}
+
+.site-footer {
+    border-top: 5px dashed #33CC66;
+    height: 30px;
+    margin: 10px;
+}
+
+.links-list ul, .links-list li {
+    display: inline-block;
+    margin: 0 px;
+}
+
+.links-list li {
+    padding: 0px 5px;
+}
+
+.site-footer ul, .site-footer li {
+    display: inline-block;
+    margin: 5px 20px 0px 0;
+}
+
+.foot-info li {
+    padding: 0 px 5 px;
+}
+
+u1.posts, .posts li{
+    display: block;
+    padding: 0px;
+    margin:0px;
+}
+
+.post-block, .posts li {
+    margin: auto;
+    max-width: 75%;
+}
+
+.posts a {
+    color: #CC33CC;
+}
+
+
+div.post-wrapper {
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+

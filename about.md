@@ -10,4 +10,4 @@ Right now, I'm a sophomore studying math at [MIT](http://mit.edu). I live at [tE
 
 *Current Project*: Programming the ATmega168
 
-*Currently flashcarding*: Probabilistic Reasoning in Intelligent Systems and Eliptic Curve notes
+*Currently flashcarding*: Probabilistic Reasoning in Intelligent Systems and Elliptic Curve notes

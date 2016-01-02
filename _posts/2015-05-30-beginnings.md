@@ -1,8 +1,7 @@
 ---
 layout: post
 title: beginnings
-tags:
-	- updates
+tags: [updates]
 ---
 
 This is my post about this post.

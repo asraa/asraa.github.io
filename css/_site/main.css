@@ -79,9 +79,8 @@ u1.posts, .posts li{
     color: #808080;
 }
 
-img {
-    max-width: 400px;
-    max-height: 300px;
+.post-image {
+    max-width: 20px;
 }
 
 div.post-wrapper {
